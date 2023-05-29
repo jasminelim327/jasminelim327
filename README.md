@@ -2,7 +2,7 @@
 
 #### A little about myself!
 
-- 🔭 I’m currently working on **Crissy ✨ A safespace for people to voice their opinions **
+- 🔭 I’m currently working on **Crissy ✨ A safespace for people to voice their opinions**
 - 🌱 I’m currently learning ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white),  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)and ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - 📫 How to reach me: **jasminelim327@gmail.com**
 - 😄 Pronouns: **she/her**

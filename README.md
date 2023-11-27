@@ -1,4 +1,4 @@
-### Hi there ! I am Jasmine, a scientist turned aspiring software engineer 🙎‍♀️!
+### Hi there ! I am Jasmine, an aspiring software engineer 🙎‍♀️!
 
 #### A little about myself!
 
